@@ -1,1 +1,1 @@
-# TSQL
+# A collection of nice-to-have tsql scripts.
